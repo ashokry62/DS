@@ -4,7 +4,7 @@
 }
 {
   "prompt":"what is the rancking of Saudi Economy",
-  “completion":"the thired Fastest in Growth in G20 Economy”
+  "completion": "the 3rd in G20 economies"
 }
 {
   "prompt":"what is the KSA investment strategy",
@@ -19,7 +19,7 @@
   "completion":"To start a business in the Kingdom, there are 3 main phases: 'Inception', 'Incorporation', 'Operations'. Phase 1. Inception|Obtain an Investment License from SAGIA. 2. Incorporation|Obtain Commercial Registration (CR) through SAGIA||None|Open registration file at Labor Office (file 700) through SAGIA||None|Obtain the General Manager s visa and residency permit (Iqama)||None|Subscribe to the Chamber of Commerce (CoC). 3. Operations (Starting up)|Subscribe to the Departmet of Zakat and Income Tax (DZIT)."}
 {
   "prompt":"what is the phase one of the process to start business in KSA",
-  "completion":"Phase 1: Inception: Obtaining an Investment License."}
+  "completion":"Phase 1: Inception: Obtaining an Investment License."
 {
   "prompt":"options available for business activities in KSA",
   "completion":"1- Industrial 2- Commercial.   3- Specialized services. 4- Non-specialized services. 5- Contracting. 6- Real estate. 7- Advisory. 8- Agricultural. 9- Temporary license. 10- Scientific and technical office"
